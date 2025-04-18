@@ -11,6 +11,7 @@ describe("Create a new Listing Page", () => {
     cy.visit("/dashboard/user/profile");
   });
 
+  
   after(() => {
     cy.deleteLisitngById(houseId);
   });
