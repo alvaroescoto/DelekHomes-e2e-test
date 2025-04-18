@@ -12,7 +12,7 @@ function autoCommit() {
   fs.appendFileSync(logPath, `Auto commit at ${timestamp}\n`);
 
   // Git commands
-  exec('git add . && git commit -m "Auto commit at ' + timestamp + '" && git push origin main', (err, stdout, stderr) => {
+  exec('git add . && git commit -m "Auto commit at ' + timestamp + '" && git push origin master', (err, stdout, stderr) => {
     if (err) {
       console.error('Commit error:', stderr);
     } else {
