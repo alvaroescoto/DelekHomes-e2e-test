@@ -1,0 +1,7 @@
+{
+  "invalidUser": "Input data validation failed",
+  "firstNameReq": "First name required",
+  "lastNameReq": "Last name required",
+  "emailReq": "Email is required",
+  "passwordReq": "Password is required"
+}
