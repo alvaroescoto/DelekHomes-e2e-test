@@ -1,0 +1,29 @@
+{
+    "newListingPage": {
+    "houseName": "Pacify house",
+    "description": "cool house",
+    "city": "Patagonia",
+    "address": "8985 S Durango dr",
+    "zipCode": "1000",
+    "state": "Alaska",
+    "price": "7000000",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "garage": "1",
+    "sqft": "1000",
+    "lotSize": "3000"
+  },
+
+  "newListingDetails": [
+    "Pacify house",
+    "8985 S Durango dr",
+    "Asking Price: $ 7,000,000",
+    "Lot Size: 3000",
+    "Garage: 1",
+    "Bathrooms: 2",
+    "Square Feet: 1000",
+    "Bedrooms: 2",
+    "Realtor: Alvaro De Avila",
+    "cool house"
+  ]
+}
