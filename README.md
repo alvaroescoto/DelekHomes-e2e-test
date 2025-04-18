@@ -43,7 +43,7 @@ This project simulates automated tests for an end-to-end real estate platform, c
 
 ### 🧱 Prerequisites
 - [Node.js](https://nodejs.org/) installed
-- [Git](https://git-scm.com/) installed
+- [Git](https://git-scm.com/) installed.
 - Chrome or Chromium-based browser installed
 
 ### 🚨 1. Clone the Repository
