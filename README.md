@@ -19,7 +19,7 @@ This project simulates automated tests for an end-to-end real estate platform, c
 - **Documentation:** Swagger
 - **Database:** Adminer + SQL
 - **Version Control:** Git + GitHub
-- **CI/CD:** GitHub Actions *(or mention future plans to add it)*
+- **CI/CD:** GitHub Actions 
 
 ---
 
