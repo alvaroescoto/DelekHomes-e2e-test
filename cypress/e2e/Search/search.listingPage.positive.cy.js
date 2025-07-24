@@ -54,4 +54,5 @@ describe("Search thruogh Feactured Listings Page", () => {
       .should("include", "$ 7,000,000")
       .and("include", listingDetails.newListingPage.houseName);
   });
+  
 });
