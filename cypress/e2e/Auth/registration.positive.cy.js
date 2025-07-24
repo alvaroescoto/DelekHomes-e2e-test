@@ -30,7 +30,8 @@ describe("Registration Positive", () => {
     dashboardPage.getFakeUser(fakeUser.firstName, fakeUser.lastName).should("be.visible");
     dashboardPage.userRoleLoc.should("have.text", userCredentials.usersRole.user);
   });
-});
+})
+
 
 
 
